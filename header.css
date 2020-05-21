@@ -1,0 +1,19 @@
+#dropbtn{
+        padding: 5px;
+        font-size: 30px;
+        border: none;
+        cursor: pointer;
+        width: 900px;
+        height:auto;
+        background-color: cornflowerblue;
+        align-items: center;
+}
+#maincont{
+    padding: 5px;
+    font-size: 30px;
+    background-position: absolute;
+    justify-content: space-around;
+    align-items: center;
+    background-color:grey;
+
+}
